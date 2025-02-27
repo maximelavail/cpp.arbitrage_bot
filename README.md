@@ -4,6 +4,8 @@
 
 This project is a **high-frequency arbitrage bot** operating on the **Aptos blockchain**. The bot is designed to execute optimized transactions across multiple **DEXs (Decentralized Exchanges)** and **Binance** to capture price discrepancies and generate profits efficiently.
 
+⚠️ this readme is not the final documentation, it will be posted shortly, for the moment I wrote this quickly.
+
 ### Table of Contents
 - 1. Technical Architecture
 - 2. System Diagram
